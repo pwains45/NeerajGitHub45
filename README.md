@@ -1,12 +1,18 @@
-# NeerajGitHub45
-This repository contains my learning journey in Web  development.
+# Neeraj HTML Projects
+
+This repository contains my practice and learning projects in Web Development.
+
 ## Skills
--HTML
--CSS
--JavaScript
+- HTML
+- CSS (learning)
+- JavaScript (learning)
 
-##Progress
--Github profile setup
--First repository Created
+## Projects
+- Basic HTML pages
+- Forms
+- Tables
+- CSS basics
+- Layout practice
 
-More Updates coming soon
+## Goal
+To become a professional Web Developer and build real-world projects.
